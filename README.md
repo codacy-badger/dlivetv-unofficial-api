@@ -12,6 +12,9 @@
 </p>
 
 ## Example
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/032fc83344624fe699dd5262a13db490)](https://app.codacy.com/app/nikl/dlivetv-unofficial-api?utm_source=github.com&utm_medium=referral&utm_content=timedotcc/dlivetv-unofficial-api&utm_campaign=Badge_Grade_Dashboard)
+
 ```js
 let dlive = require('dlivetv-unofficial-api');
 
